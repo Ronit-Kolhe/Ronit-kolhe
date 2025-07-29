@@ -8,7 +8,7 @@
 ## 🛠️ Skills & Tools
 
 **Languages**:  
-`HTML/CSS` `JavaScript` `C` `C++` `React` `NodeJS` `Python` `Java`
+`HTML/CSS` `JavaScript` `C` `C++` `React` `NodeJS` `Python` `Java` `MySql`
 
 **AI & ML**:  
 `PyTorch` `Scikit-learn` `LLaMA (via Ollama)`   
