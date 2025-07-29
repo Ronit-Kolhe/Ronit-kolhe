@@ -4,11 +4,6 @@
 
 ---
 
-## 🚀 What I'm Working On
-- **AI-powered Stock Market Chatbot**  
-  A fully local chatbot using LLaMA (via Ollama) + Streamlit + yFinance to fetch and visualize stock data, analyze financials, and explain trading concepts — all offline.
-
----
 
 ## 🛠️ Skills & Tools
 
