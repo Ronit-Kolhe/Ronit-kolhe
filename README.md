@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ronit Kolhe</h1>
-<h3 align="center">I'm a final-year Electronics & Telecommunication Engineering student, passionate about building meaningful tech — especially at the intersection of AI, data, and real-world problems.</h3>
+# Hi, I'm Ronit 👋
 
-- 🔭 I’m currently working on **A fully local chatbot using LLaMA (via Ollama) + Streamlit + yFinance to fetch and visualize stock data, analyze financials, and explain trading concepts — all offline.**
+🎓 I'm a final-year Electronics & Telecommunication Engineering student, passionate about building meaningful tech — especially at the intersection of **AI**, **data**, and **real-world problems**.
 
-- ⚡ Fun fact **Not building for luxury. Building for use." – me, when motivation fades but curiosity doesn't.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 What I'm Working On
+- **AI-powered Stock Market Chatbot**  
+  A fully local chatbot using LLaMA (via Ollama) + Streamlit + yFinance to fetch and visualize stock data, analyze financials, and explain trading concepts — all offline.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**:  
+`HTML/CSS` `JavaScript` `C` `C++` `React` `NodeJS` `Python` `Java`
+
+**AI & ML**:  
+`PyTorch` `Scikit-learn` `LLaMA (via Ollama)`   
+`Pandas` `NumPy` `Matplotlib` `Plotly`
+
+**Web & Visualization**:  
+`Streamlit` `Flask (basics)`   
+`Plotly` `Matplotlib` `Chart.js (learning)`
+
+**Dev Tools**:  
+`Git` `GitHub` `VS Code`
+
+**Finance & Data**:  
+`yFinance` `pandas-datareader` `Excel` `Google Sheets`
+
+**Currently Exploring**:  
+`Agentic AI` `Open Source LLMs` `Quantitative Finance` `Backend APIs`
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronit-kolhe-29806a245/) 
+- 📬 ronit.logicflow@outlook.com 
+
+---
+
+> _"Not building for luxury. Building for use."_  
+> – me, when motivation fades but curiosity doesn't.
